@@ -1,4 +1,4 @@
-### Hi, I'm Ramen Manna! Welcome to My Github Profile 👋
+## Hi, I'm Ramen Manna! Welcome to My Github Profile 👋
 
 - 🔭 I’m currently working as a Freelancer
 - 🌱 I’m currently learning React Js, Next Js,
@@ -9,9 +9,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Maximum Time i forgot to switch off my computer after learning new things on youtube.🤣
 
-<h3 align="left">Languages and Tools that I used:</h3>
+## Languages and Tools:
 <p align="left"> 
-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
