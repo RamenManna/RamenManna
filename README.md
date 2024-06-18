@@ -1,13 +1,11 @@
 # Hi, I'm Ramen Manna! 👋
 Welcome to My GitHub Profile!
 
-- 🌱 I’m currently learning Latest DevSecOps Tools
-- 👯 I’m looking to collaborate on Full Stack Web Projects using Various Tech Stacks
-- 🤔 I’m looking for help with Various API based Documentation
-- 💬 Ask me about Full stack based web projects system design
+- 🌱 I’m currently learning Latest DevSecOps Tools and best practices
+- 💬 Ask me about Full stack-based web project system designs
 - 📫 How to reach me: [Gmail](mailto:ramenmanna09@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Most of the time, I forget to switch off my computer after learning new things on YouTube. 🤣
+- ⚡ Fun fact: I often forget to switch off my computer after learning new things on YouTube.🤣
 
 ## Languages and Tools
 <p align="left">
@@ -76,7 +74,9 @@ Welcome to My GitHub Profile!
   </tr>
 </table>
 </p>
+
 ---
+
 ## 🛠 More About Me
 I am a Full-Stack Developer at Wipro Technologies with 2+  years of experience. Proficient in front-end (HTML, CSS, Angular, Bootstrap, Tailwind, JavaScript) and back-end (Microservices, Spring Boot, Java, Node.js, Python Flask, MongoDB, MySQL) technologies, I also excel in monitoring tools (Dynatrace, Grafana, Splunk) and Microsoft Azure deployment (ACR and AKS) and CI/CD with Jenkins.
 
