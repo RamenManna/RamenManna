@@ -76,3 +76,10 @@ Welcome to My GitHub Profile!
   </tr>
 </table>
 </p>
+---
+## 🛠 More About Me
+I am a Full-Stack Developer at Wipro Technologies with 2+  years of experience. Proficient in front-end (HTML, CSS, Angular, Bootstrap, Tailwind, JavaScript) and back-end (Microservices, Spring Boot, Java, Node.js, Python Flask, MongoDB, MySQL) technologies, I also excel in monitoring tools (Dynatrace, Grafana, Splunk) and Microsoft Azure deployment (ACR and AKS) and CI/CD with Jenkins.
+
+I'm eager to contribute my skills to Your Company as a **Full-Stack Developer** or **DevOps / SRE Engineer**. My commitment to quality and versatility aligns with your team's needs.
+
+Let's discuss how I can bring value to your team.
